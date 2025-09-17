@@ -1,19 +1,27 @@
 # CodeHive
 
-CodeHive is an interactive coding platform designed to help users learn, practice, and compete in coding challenges. The platform provides a community-driven environment where coders can improve their skills, participate in competitions, and showcase their projects.
+CodeHive is an interactive coding platform designed to help users learn, practice, and compete in coding challenges.  
 
-🌐 Hosted URL:https://codehives.tiiny.site/
+> ⚠️ Note: The complete source files are not currently available in this repository. The platform is fully hosted online and can be accessed here:
 
-## Features (Basic Overview)
-- Interactive coding challenges
-- Daily practice tasks
-- 1v1 coding battles
-- Community-driven content
-- Leaderboards and achievements
-- Portfolio building for coders
+🌐 Hosted URL: [Your Hosted Link Here](https://your-hosted-url.com)
 
-## Installation (Optional / For Local Setup)
-If you want to run CodeHive locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/VarshSec/CodeHive.git
+## About
+CodeHive provides a community-driven environment for coders to:
+- Practice coding challenges
+- Participate in 1v1 coding battles
+- Track achievements and progress
+- Build a coding portfolio
+
+## Usage
+Since the source files are not fully available here, you can use the hosted platform directly via the link above.
+
+## Contributing
+If you have improvements or code for CodeHive, feel free to contribute by opening issues or pull requests. Future updates may include:
+- Additional coding challenges
+- Improved UI/UX
+- Backend features and integrations
+
+## License
+This project is open-source under the [MIT License](LICENSE).
+
