@@ -2,7 +2,7 @@
 
 CodeHive is an interactive coding platform designed to help users learn, practice, and compete in coding challenges. The platform provides a community-driven environment where coders can improve their skills, participate in competitions, and showcase their projects.
 
-🌐 Hosted URL:
+🌐 Hosted URL:https://codehives.tiiny.site/
 
 ## Features (Basic Overview)
 - Interactive coding challenges
