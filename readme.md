@@ -4,8 +4,10 @@ CodeHive is an interactive coding platform designed to help users learn, practic
 
 > ⚠️ Note: The complete source files are not currently available in this repository. The platform is fully hosted online and can be accessed here:
 
-🌐 Hosted URL: [Your Hosted Link Here](https://your-hosted-url.com)
+🌐 Hosted URL:(https://codehives.tiiny.site/)
 
+Only MVP 
+ 
 ## About
 CodeHive provides a community-driven environment for coders to:
 - Practice coding challenges
